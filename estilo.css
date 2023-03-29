@@ -183,7 +183,7 @@ top:calc(80% - 70px);
     }
 
 .medio{
-    height: 1200px;
+    height: auto;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
